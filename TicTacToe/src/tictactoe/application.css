@@ -1,0 +1,50 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+
+.border{
+	-fx-background-color:
+	#32ff7e;
+}
+
+.otherborders{
+	-fx-background-color:
+	#55E6C1;
+}
+
+.button{
+	-fx-background-color:
+	#4b4b4b;
+	-fx-background-insets: -1.0,0.0,1.0,1.0;
+	-fx-font-weight: bold;
+	-fx-font-size: 36.0;
+	-fx-text-fill: #32ff7e;
+}
+
+
+.change-theme-buttons{
+	-fx-background-color:
+	#1B9CFC;
+	-fx-text-fill:
+	#F97F51;
+}
+
+.back-to-normal{
+	-fx-background-color:
+	#4b4b4b;
+	-fx-background-insets: -1.0,0.0,1.0,1.0;
+	-fx-font-weight: bold;
+	-fx-font-size: 36.0;
+	-fx-text-fill: #32ff7e;
+}
+
+.winning-button{
+	-fx-background-color:
+	#F8EFBA;
+	-fx-text-fill:#182C61;
+}
+
+.change-theme-border{
+	-fx-background-color:
+	#F97F51;
+}
+
